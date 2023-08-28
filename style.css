@@ -1,0 +1,52 @@
+body{
+    background-color: rgba(175, 199, 226, 0.116);
+    text-align: center;
+   
+}
+h1{
+    color: rgb(233, 50, 172);
+    text-shadow: 1px 1px 1.5px;
+   font-size: 38px; 
+}
+input:hover,{
+    color: rgb(105, 90, 243);
+   
+
+    }
+    .ww:hover{
+        color: blue;
+        text-decoration: underline;
+    }
+    .tt{
+        color: white;
+        font-family: rayyan;
+        text-align: left;
+        background-color: rgb(36, 138, 228);
+        text-indent: 20px;
+    }
+    .rr{
+        text-align: left;
+    }
+    .ri{
+         text-align:left;
+    }
+    @font-face{
+        font-family: rayyan;
+        src: url(./Kanit-Bold.ttf);
+    }
+    a{
+        text-decoration: none;
+    }
+    a:hover{
+       text-decoration: underline;
+        color: yellowgreen;
+        font-size: 20px;
+    }
+    .ty{
+        border-color: white;
+        font-family: rayyan;
+    }
+    
+    
+    
+  
